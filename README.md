@@ -1,10 +1,7 @@
 ## Hi there 👋
-
-<!--![f75dd5e1-4ee3-42b4-a2ef-4a9c0640dab7](https://github.com/user-attachments/assets/ed9aaf4c-c5e0-457b-81f3-737dff98eec1)
-
-**Rishapatel09/Rishapatel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<p align="center">
+  <img src="HeaderImage.png" alt="Risha's Banner" width="100%">
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
