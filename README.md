@@ -2,13 +2,7 @@
   <img src="Image.png" alt="Risha's banner" width="40%">
 </p>
 
-<h1 align="center">Hi there! 👋</h1>
-
-<p align="center">
-  I'm <strong>Risha Patel</strong> — a CS undergrad at <strong>UofSC</strong> passionate about building smart systems that make life easier.
-</p>
-
----
+<h1 align="center">Hello! I'm Risha 👋</h1>
 
 ### 👩‍💻 About Me
 
