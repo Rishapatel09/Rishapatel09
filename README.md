@@ -1,6 +1,6 @@
 <h1 align="left">Hello! I'm Risha </h1>
 
-<img align="right" src="Image.png" alt="Risha Banner" width="300px">
+<img align="right" src="Image.jpeg" alt="Risha Banner" width="300px">
 
 ### 👩‍💻 About Me
 
