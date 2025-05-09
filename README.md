@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="HeaderImage.png" alt="Risha's Banner" width="100%">
+  <img src="Image.png" alt="Risha's Banner" width="100%">
 </p>
 
 - 🔭 I’m currently working on ...
