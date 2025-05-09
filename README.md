@@ -1,18 +1,12 @@
-<p align="center">
-  <img src="Image.png" alt="Risha's banner" width="40%">
-</p>
+<h1 align="left">Hello! I'm Risha </h1>
 
-<h1 align="center">Hello! I'm Risha 👋</h1>
+<img align="right" src="Image.png" alt="Risha Banner" width="300px">
 
 ### 👩‍💻 About Me
 
-- 🌟 CS undergraduate @UofSC  
-- 🤖 Passionate about Machine Learning, Data Science, and Software Engineering  
-- 🛠 Currently working on Turtlebot4   
-- ☁️ Exploring cloud tools like AWS and full-stack web development  
-- 🧠 Always eager to learn and collaborate on real-world tech projects  
+- 🤖 I'm intrested in ML, Data Science, and Software Engineering  
+- 👀 I'm Currently working on TurtleBot4 @AI Institute of SC
+- ☁️ I’m looking to collaborate on interesting projects  
+- 📫 How to reach me: risha280903@gmail.com 
 
----
 
-### 📫 Connect with Me
-- 📧 rishapatel3941@gmail.com
